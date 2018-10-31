@@ -1,2 +1,2 @@
 # anyproxy-example
-anyproxy使用事例
+anyproxy使用例子
